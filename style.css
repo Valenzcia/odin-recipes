@@ -26,42 +26,43 @@
 }
 
 #home {
-  font-size: 18px;
+  font-size: 14px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 h2 {
   text-align: center;
-  font-size: 60px;
+  font-size: 40px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 #ljpg {
-  width: 600px;
-  height: 350px;
+  width: 450px;
+  height: 300x;
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
 .desc {
-  font-size: 35px;
+  font-size: 24px;
   font-family: cursive;
   text-align: center;
 }
 
 .ingr {
   font-weight: bold;
-  text-align: center;
+  text-align: left;
   font-size: 18px;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  margin-left: 35px;
 }
 
 #ingredients {
-  text-align: center;
+  text-align: left;
 }
 
 ul {
@@ -72,15 +73,15 @@ ul {
 }
 
 .steps {
-  text-align: center;
+  text-align: left;
+  margin-left: 40px;
   font-weight: bold;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
 }
 
 #lst {
-  display: inline-block;
-  text-align: ;
+  text-align: left;
   font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
     "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
   font-size: 16px;
